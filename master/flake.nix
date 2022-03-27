@@ -11,6 +11,7 @@
   inputs.src-gen-master.ref   = "refs/heads/master";
   inputs.src-gen-master.owner = "Adeohluwa";
   inputs.src-gen-master.repo  = "gen";
+  inputs.src-gen-master.dir   = "";
   inputs.src-gen-master.type  = "github";
   
   inputs."progress".owner = "nim-nix-pkgs";

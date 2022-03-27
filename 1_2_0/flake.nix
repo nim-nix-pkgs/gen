@@ -11,6 +11,7 @@
   inputs.src-gen-1_2_0.ref   = "refs/tags/1.2.0";
   inputs.src-gen-1_2_0.owner = "Adeohluwa";
   inputs.src-gen-1_2_0.repo  = "gen";
+  inputs.src-gen-1_2_0.dir   = "";
   inputs.src-gen-1_2_0.type  = "github";
   
   inputs."progress".owner = "nim-nix-pkgs";
